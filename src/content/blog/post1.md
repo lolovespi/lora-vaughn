@@ -1,7 +1,7 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "Basically: A Tribute to Dr. Lewis I. Patterson"
+description: "Text copy of the eulogy I delivered at the memorial service for Dr. Lewis Patterson."
+pubDate: "July 28 2025"
 heroImage: "/post_img.webp"
 tags: ["tokio"]
 ---
