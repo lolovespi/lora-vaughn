@@ -1,0 +1,43 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  date?: string;
+  link: string;
+  type?: string;
+}
+
+const { title, description, date, link, type } = Astro.props;
+
+function getCallToAction(type?: string): string {
+  switch (type) {
+    case "video":
+      return "Watch";
+    case "podcast":
+      return "Listen";
+    case "article":
+      return "Read";
+    default:
+      return "View";
+  }
+}
+---
+
+<div class="border border-slate-200 p-4 rounded-xl hover:shadow-md transition-shadow bg-white">
+  <div class="flex items-center justify-between">
+    <h3 class="text-lg font-semibold text-slate-900">{title}</h3>
+    {date && <span class="text-sm text-slate-400">{date}</span>}
+  </div>
+  <p class="text-slate-600 mt-1 mb-3">{description}</p>
+  <a
+    href={link}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="text-vaughn-purple-700 hover:underline inline-flex items-center gap-1 text-sm font-medium"
+  >
+    {getCallToAction(type)}
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 3h7m0 0v7m0-7L10 14m-4 4h10" />
+    </svg>
+  </a>
+</div>
