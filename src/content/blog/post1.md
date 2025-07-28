@@ -2,55 +2,44 @@
 title: "Basically: A Tribute to Dr. Lewis I. Patterson"
 description: "Text copy of the eulogy I delivered at the memorial service for Dr. Lewis Patterson."
 pubDate: "July 28 2025"
-heroImage: "/post_img.webp"
-tags: ["tokio"]
+heroImage: "/dr.Patterson.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+Basically… 
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+If you know, you know.  
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+If you don’t know, then you probably didn’t have the privilege and honor of taking one of Lewis Patterson’s computer science courses.  
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Let me enlighten you.  Dr. Patterson would not let that word be used in his classes because “there is no basically: either it is, or it isn’t”.  The word basically likely still causes some computer science alums to cringe. Or maybe, if you’re like me, it’s now your pet peeve too.  Just ask anyone on my team — or any poor vendor sales rep who’s dared to use it while explaining something to me
+Dr. Patterson came across as intimidating at first glance. His stoic expressions, the high and tight haircut, his uniform-like style of dress, and his regimented lifestyle all combined to give off the vibe of a very serious person.  Or maybe former military. 
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+But underneath that intimidating exterior was someone who cared — deeply — and who had a dry, stealthy sense of humor that would sneak up on you… usually about five seconds after he said something and that slow, sly grin started to spread across his face. 
+
+During my time as a student, I took every one of his classes that I could. I knew I would be challenged, and I knew that if I was struggling, he would make it make sense.  Except maybe in Operating Systems.  That class was HARD, and I’m still not sure how I made it thru with a good grade, except by his well-timed comment over my shoulder while I was staring at a computer screen in the computer lab at Olin. 
+
+“KISS. KISS.”
+
+Keep it simple, stupid.
+
+It wasn’t an insult. It was a reminder.  He knew how to cut through the noise and bring you back to clarity.
+
+Dr Patterson pushed me.  And I know he did the same to others.
+
+He believed I could do far more than I thought I could.  Like when I wanted to finish my art minor, but the class I needed conflicted with his database course. I was ready to drop it. He looked at me and said, “Take it. You’ll be fine.” And he said it like it was obvious. I believed him, so I did it. It wasn’t until later that I realized he’d signed me up to learn a brand-new programming language — and the complexities of SQL — in one semester while only attending 1 of 3 classes each week. If he’d told me that part up front, I probably would’ve run. 
+
+He never discouraged ambition. When I pitched the idea for my senior interim project, a probably ill-advised, overly ambitious security initiative on the student network, he didn’t bat an eye. He believed it was a worthy project and that we could make it work.  And we did.  I learned more in those long hours in his office that January than I did in some entire courses. I will always treasure that time.
+Dr. Patterson wasn’t just a professor. He was an experience. A rite of passage for comp sci majors. A man who could strike fear in your heart with the phrase: “sideboard.”
+
+But oh. The pride you felt when you successfully answered that question correctly. 
+
+He was the kind of professor who sometimes made you question your intelligence, your major and your life choices— but somehow made you feel smarter just by surviving his courses. 
+
+His wardrobe was… consistent.
+
+His demeanor: unflappable.
+
+And those four perfectly aligned push pins on his bulletin board? A symbol of order in a chaotic world.
+He made us better students. Better professionals. And, in many cases, better people. His legacy lives on in clean, well-documented code, in every eyeroll we give to lazy tech jargon, and in every former student who still twitches a little when someone says “basically.”
+
+Rest well, Dr. Patterson 
