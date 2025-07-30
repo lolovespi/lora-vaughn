@@ -1,5 +1,5 @@
 ---
-title: "Basically: A Tribute to Dr. Lewis I. Patterson"
+title: "Basically A Tribute to Dr. Lewis I. Patterson"
 description: "Dr. Lewis I. Patterson, longtime professor of Computer Science at Birmingham-Southern College and a proud alumnus, passed away on May 10, 2025. Dr. Patterson devoted his career to teaching and mentoring students at his alma mater, where he was known for his intellect and integrity. His influence shaped generations of students and colleagues, and his legacy will live on through the many lives he touched. Dr. Patterson leaves a lasting impact on the BSC family, where his wisdom, dedication, and mentorship will be remembered for years to come. This is my tribute to him.  "
 pubDate: "July 28 2025"
 heroImage: "/dr.Patterson.jpg"
