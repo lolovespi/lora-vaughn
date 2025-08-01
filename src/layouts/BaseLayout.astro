@@ -28,22 +28,10 @@ const ogUrl = baseUrl + Astro.url.pathname;
 <!doctype html>
 <html lang="en" data-theme="synthwave">
   <head>
-    <BaseHead title={title} description={description} image={image} , ogType={ogType} />
+    <BaseHead title={title} description={description} image={ogImage}  ogType={ogType} />
     <meta name="description" content={description} />
   <meta name="author" content="Lora Vaughn" />
 
-<!-- Open Graph -->
-<meta property="og:type" content={ogType} />
-<meta property="og:title" content={title} />
-<meta property="og:description" content={description} />
-<meta property="og:image" content={ogImage} />
-<meta property="og:url" content={ogUrl} />
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content={title} />
-<meta name="twitter:description" content={description} />
-<meta name="twitter:image" content={ogImage} />
 
     {TRANSITION_API && <ViewTransitions />}
   </head>
