@@ -1,12 +1,29 @@
 ---
+const title = "The Unexpected Joy of Unemployment";
+const description = "Being 'in transition' wasn’t part of my plan—but it came with a surprising upside: rediscovering the fun of tinkering with tech.";
+const image = "/blog-photos/LoraPowerTools.jpeg";
 const redirectTo = "/blog/the-unexpected-joy-of-unemployment-and-building-geeky-little-things/";
+const baseUrl = "https://loravaughn.com";
 ---
 
 <html lang="en">
   <head>
+    <title>{title}</title>
     <meta http-equiv="refresh" content={`0; url=${redirectTo}`} />
-    <link rel="canonical" href={redirectTo} />
-    <title>Redirecting...</title>
+    <link rel="canonical" href={baseUrl + redirectTo} />
+
+    <!-- OG metadata -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={baseUrl + image} />
+    <meta property="og:url" content={baseUrl + "/joy"} />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={baseUrl + image} />
   </head>
   <body>
     <p>Redirecting to <a href={redirectTo}>{redirectTo}</a>...</p>
