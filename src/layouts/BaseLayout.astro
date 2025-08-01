@@ -7,20 +7,40 @@ import { ViewTransitions } from "astro:transitions";
 
 import { SITE_TITLE, SITE_DESCRIPTION, TRANSITION_API } from "../config";
 
+
 const {
   image,
   title = SITE_TITLE,
   description = SITE_DESCRIPTION,
   includeSidebar = true,
   sideBarActiveItemID,
-  ogType,
+  ogType = "website",
 } = Astro.props;
+
+const baseUrl = "https://loravaughn.com"; // Update if your domain changes
+const ogImage = image?.startsWith("http") ? image : `${baseUrl}${image || "/og-default.jpg"}`;
+const ogUrl = baseUrl + Astro.url.pathname;
 ---
 
 <!doctype html>
 <html lang="en" data-theme="synthwave">
   <head>
     <BaseHead title={title} description={description} image={image} , ogType={ogType} />
+    <meta name="description" content={description} />
+
+<!-- Open Graph -->
+<meta property="og:type" content={ogType} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:url" content={ogUrl} />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImage} />
+
     {TRANSITION_API && <ViewTransitions />}
   </head>
   <body>
